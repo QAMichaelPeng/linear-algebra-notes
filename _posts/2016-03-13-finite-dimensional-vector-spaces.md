@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "有限维向量空间(1): 张成与线性无关"
-categories: linear algebra
+categories: "linear-algebra"
 ---
 ## **张成与线性无关**
 

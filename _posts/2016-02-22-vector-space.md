@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "向量空间"
-categories: linear algebra
+categories: "linear-algebra"
 ---
 
 开始看机器学习，才发现数学严重不够用了，十分有必要重温一下。
