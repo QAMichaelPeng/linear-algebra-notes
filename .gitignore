@@ -5,3 +5,4 @@ _site
 # vim files
 *~
 *.sw[opc]
+_posts
